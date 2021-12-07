@@ -1,0 +1,22 @@
+.btn-primary {
+    background-color: #05a1f5 !important;
+    color: #FFFFFF !important;
+    border-radius: 5px !important;
+}
+
+.btn-success {
+    background-color: #118055 !important;
+    color: #FFFFFF !important;
+    border-radius: 5px !important;
+}
+
+.panel-header {
+    height: 260px;
+    padding-top: 80px;
+    padding-bottom: 45px;
+    background: #103ee7;
+    background: linear-gradient(160deg, #aeaec5 0%, #9ca5c9 100%) !important;
+    background-size: 105%;
+    position: fixed;
+    overflow: hidden;
+}
